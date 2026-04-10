@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BWAppDelegateShowDebugLog</key>
+	<true/>
+	<key>BWAppDelegateAppShouldOpenUntitledDocument</key>
+	<false/>
+	<key>VUIHostStimulusPluginsPath</key>
+	<string>edu.washington.bwark.acqui/Stimulus Plugins</string>
+	<key>VUIHostOnlineAnalysisPluginsPath</key>
+	<string>edu.washington.bwark.acqui/Online Analysis Plugins</string>
+	<key>VUISuppressOverwritePredicateFromExemplar</key>
+	<false/>
+</dict>
+</plist>
